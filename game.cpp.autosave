@@ -1,0 +1,12 @@
+#include "game.h"
+
+Game::Game()
+{
+
+}
+
+void Game::Play(){
+    // Initialize Board
+    // Initialize 2 players with pointer
+    // Loop (player1, player2, checkwin)
+}
